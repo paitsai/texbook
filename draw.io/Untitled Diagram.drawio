@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="t42NmLJIdtNX9caucT6P-1" parent="1" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=14;" value="Which film has the director died first, The Year of The Rabbit or Monster On the Campus?" vertex="1">
+        <mxCell id="t42NmLJIdtNX9caucT6P-1" parent="1" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=14;fontColor=light-dark(#360b6a, #ededed);" value="Which film has the director died first, The Year of The Rabbit or Monster On the Campus?" vertex="1">
           <mxGeometry height="50" width="450" x="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="t42NmLJIdtNX9caucT6P-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px; color: light-dark(rgb(100, 79, 201), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;The Year of the&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px; color: light-dark(rgb(100, 79, 201), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;Rabbit , ..., directed&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px; color: light-dark(rgb(100, 79, 201), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;by &lt;/font&gt;&lt;font style=&quot;font-size: 9px; color: light-dark(rgb(187, 48, 48), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;Fernando Ayala&lt;/font&gt;&lt;font style=&quot;font-size: 9px; color: light-dark(rgb(100, 79, 201), rgb(237, 237, 237));&quot; face=&quot;Comic Sans MS&quot;&gt;...&lt;/font&gt;&lt;/div&gt;" vertex="1">
