@@ -4,17 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MPbiYuVygG0y9-_-qdlf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="160" x="140" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="MPbiYuVygG0y9-_-qdlf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="160" x="140" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="MPbiYuVygG0y9-_-qdlf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="160" x="340" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="MPbiYuVygG0y9-_-qdlf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="90" width="160" x="340" y="280" as="geometry" />
+        <mxCell id="t42NmLJIdtNX9caucT6P-1" parent="1" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=14;" value="Which film has the director died first, The Year of The Rabbit or Monster On the Campus?" vertex="1">
+          <mxGeometry height="50" width="390" x="140" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
