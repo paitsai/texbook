@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XDjsM_f3BUyjS0mcJiyx">
+    <mxGraphModel dx="964" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MPbiYuVygG0y9-_-qdlf-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="160" x="140" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MPbiYuVygG0y9-_-qdlf-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="160" x="140" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="MPbiYuVygG0y9-_-qdlf-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="160" x="340" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MPbiYuVygG0y9-_-qdlf-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="90" width="160" x="340" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
