@@ -425,8 +425,11 @@
         <mxCell id="YLF8nuqAhThtVN1R-D70-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;📜&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="690" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="YLF8nuqAhThtVN1R-D70-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;Shallow Direct Clues&lt;/font&gt;" vertex="1">
+        <mxCell id="YLF8nuqAhThtVN1R-D70-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px; color: light-dark(rgb(171, 96, 10), rgb(237, 237, 237));&quot;&gt;Shallow Direct Clues&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="165" x="727.5" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="YLF8nuqAhThtVN1R-D70-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px; color: light-dark(rgb(65, 109, 176), rgb(237, 237, 237));&quot;&gt;&amp;nbsp;Underlying Latent Clues&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="165" x="1012.5" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
