@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MwipoqS5JWlzSGWbYuTk-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1.25;shadow=1;" value="" vertex="1">
-          <mxGeometry height="70" width="750" x="1450" y="-20" as="geometry" />
+          <mxGeometry height="70" width="720" x="1450" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="MwipoqS5JWlzSGWbYuTk-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;strokeWidth=1.5;shadow=1;strokeColor=light-dark(#5b7b5b, #ededed);" value="" vertex="1">
           <mxGeometry height="120" width="190" x="1990" y="160" as="geometry" />
@@ -629,7 +629,7 @@
           <mxGeometry height="30" width="185" x="1995" y="120" as="geometry" />
         </mxCell>
         <mxCell id="MwipoqS5JWlzSGWbYuTk-52" parent="1" style="text;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(204, 0, 0), rgb(237, 237, 237));&quot;&gt;Question Query: &lt;/font&gt;Which film has the director died first, &lt;/span&gt;&lt;font style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; color: light-dark(rgb(187, 48, 48), rgb(237, 237, 237));&quot;&gt;「The Year of The Rabbit」&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt; or &lt;/span&gt;&lt;font style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; color: light-dark(rgb(187, 48, 48), rgb(237, 237, 237));&quot;&gt;「Monster On the Campus」&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;?&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="770" x="1450" y="-20" as="geometry" />
+          <mxGeometry height="40" width="730" x="1450" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="MwipoqS5JWlzSGWbYuTk-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏼‍♂️&lt;/font&gt;" vertex="1">
           <mxGeometry height="15" width="20" x="1560" y="215" as="geometry" />
