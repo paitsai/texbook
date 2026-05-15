@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="XDjsM_f3BUyjS0mcJiyx">
-    <mxGraphModel dx="2242" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1623" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,17 +410,8 @@
         <mxCell id="YLF8nuqAhThtVN1R-D70-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Context&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;end&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1140" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="YLF8nuqAhThtVN1R-D70-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="💬" vertex="1">
-          <mxGeometry height="30" width="30" x="790" y="645" as="geometry" />
-        </mxCell>
-        <mxCell id="YLF8nuqAhThtVN1R-D70-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="💬" vertex="1">
-          <mxGeometry height="30" width="30" x="860" y="645" as="geometry" />
-        </mxCell>
-        <mxCell id="YLF8nuqAhThtVN1R-D70-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="💬" vertex="1">
-          <mxGeometry height="30" width="30" x="980" y="645" as="geometry" />
-        </mxCell>
-        <mxCell id="YLF8nuqAhThtVN1R-D70-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="💬" vertex="1">
-          <mxGeometry height="30" width="30" x="1080" y="645" as="geometry" />
+        <mxCell id="YLF8nuqAhThtVN1R-D70-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏼‍♀️&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="20" x="860" y="652.5" as="geometry" />
         </mxCell>
         <mxCell id="YLF8nuqAhThtVN1R-D70-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;📜&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="690" y="670" as="geometry" />
@@ -443,7 +434,7 @@
         <mxCell id="MwipoqS5JWlzSGWbYuTk-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;color: light-dark(rgb(59, 79, 59), rgb(113, 151, 208)); font-size: 15px;&quot;&gt;Final Correct Answer&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="165" x="160" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="MwipoqS5JWlzSGWbYuTk-6" edge="1" parent="1" source="MwipoqS5JWlzSGWbYuTk-4" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;strokeWidth=2;strokeColor=light-dark(#4676be, #ededed);" target="s4xeb1LzEIhJTqf-fGlH-115" value="">
+        <mxCell id="MwipoqS5JWlzSGWbYuTk-6" edge="1" parent="1" source="MwipoqS5JWlzSGWbYuTk-4" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;strokeWidth=2;strokeColor=light-dark(#cb5d34, #ededed);" target="s4xeb1LzEIhJTqf-fGlH-115" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="740" />
@@ -452,7 +443,7 @@
             <mxPoint x="710" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MwipoqS5JWlzSGWbYuTk-7" edge="1" parent="1" source="MwipoqS5JWlzSGWbYuTk-4" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;strokeWidth=2;strokeColor=light-dark(#4676be, #ededed);" target="s4xeb1LzEIhJTqf-fGlH-109" value="">
+        <mxCell id="MwipoqS5JWlzSGWbYuTk-7" edge="1" parent="1" source="MwipoqS5JWlzSGWbYuTk-4" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;strokeWidth=2;strokeColor=light-dark(#cb5d34, #ededed);" target="s4xeb1LzEIhJTqf-fGlH-109" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="590" />
@@ -463,6 +454,15 @@
         </mxCell>
         <mxCell id="MwipoqS5JWlzSGWbYuTk-8" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(203, 93, 52), rgb(162, 179, 162));&quot;&gt;Question Query&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="465" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="MwipoqS5JWlzSGWbYuTk-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏼‍♂️&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="20" x="800" y="652.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MwipoqS5JWlzSGWbYuTk-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋‍♀️&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="20" x="980" y="652.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MwipoqS5JWlzSGWbYuTk-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏽‍♂️&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="20" x="1080" y="652.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
