@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="XDjsM_f3BUyjS0mcJiyx">
-    <mxGraphModel dx="1623" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1407" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MwipoqS5JWlzSGWbYuTk-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏽‍♂️&lt;/font&gt;" vertex="1">
+          <mxGeometry height="15" width="20" x="1080" y="655" as="geometry" />
+        </mxCell>
         <mxCell id="MwipoqS5JWlzSGWbYuTk-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=none;sketch=1;curveFitting=1;jiggle=2;opacity=50;strokeWidth=1.5;shadow=1;strokeColor=light-dark(#cb5d34, #ededed);" value="" vertex="1">
           <mxGeometry height="150" width="210" x="450" y="585" as="geometry" />
         </mxCell>
@@ -411,7 +414,7 @@
           <mxGeometry height="30" width="60" x="1140" y="640" as="geometry" />
         </mxCell>
         <mxCell id="YLF8nuqAhThtVN1R-D70-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏼‍♀️&lt;/font&gt;" vertex="1">
-          <mxGeometry height="15" width="20" x="860" y="652.5" as="geometry" />
+          <mxGeometry height="15" width="20" x="860" y="655" as="geometry" />
         </mxCell>
         <mxCell id="YLF8nuqAhThtVN1R-D70-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;📜&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="690" y="670" as="geometry" />
@@ -456,13 +459,10 @@
           <mxGeometry height="40" width="180" x="465" y="550" as="geometry" />
         </mxCell>
         <mxCell id="MwipoqS5JWlzSGWbYuTk-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏼‍♂️&lt;/font&gt;" vertex="1">
-          <mxGeometry height="15" width="20" x="800" y="652.5" as="geometry" />
+          <mxGeometry height="15" width="20" x="800" y="655" as="geometry" />
         </mxCell>
         <mxCell id="MwipoqS5JWlzSGWbYuTk-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋‍♀️&lt;/font&gt;" vertex="1">
-          <mxGeometry height="15" width="20" x="980" y="652.5" as="geometry" />
-        </mxCell>
-        <mxCell id="MwipoqS5JWlzSGWbYuTk-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;🙋🏽‍♂️&lt;/font&gt;" vertex="1">
-          <mxGeometry height="15" width="20" x="1080" y="652.5" as="geometry" />
+          <mxGeometry height="15" width="20" x="980" y="655" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
